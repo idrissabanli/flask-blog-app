@@ -1,4 +1,12 @@
-.venv/
-*.sql
+pgdb/
+.idea/
+media/
+.venv
+db.sqlite3
 *.pyc
-__pycache__/
+*.yml
+*.sql
+*.save
+*.swp
+locale/
+*.tar.gz
