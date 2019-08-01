@@ -1,0 +1,11 @@
+# run test
+$ pytest
+
+#If any tests fail, pytest will show the error that was raised.
+$ pytest -v
+
+# To measure the code coverage of your tests
+$ coverage run -m pytest
+
+# You can either view a simple coverage report in the terminal
+$ coverage report
